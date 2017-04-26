@@ -35,3 +35,13 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+#webpack
+.DS_Store
+*.orig
+/*.log
+/node_modules
+/dist
+/bower_components
+/*.sublime-workspace
+.vscode
